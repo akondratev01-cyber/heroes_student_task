@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build/output
+out/
+target/
+build/
+
+# Archives
+*.zip
+*.7z
+
+# OS files
+.DS_Store
+Thumbs.db
